@@ -63,20 +63,6 @@ class MesakMychart:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mesak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MesakMychart&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MesakMychart&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MesakMychart&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 > *"The best way to predict the future is to build it with AI."*
